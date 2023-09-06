@@ -1,0 +1,2386 @@
+state,date,ww_conc
+Alabama,23-Jun-2021,1
+Alabama,30-Jun-2021,3
+Alabama,07-Jul-2021,3
+Alabama,14-Jul-2021,8
+Alabama,21-Jul-2021,14
+Alabama,28-Jul-2021,19
+Alabama,04-Aug-2021,35
+Alabama,11-Aug-2021,53
+Alabama,18-Aug-2021,58
+Alabama,16-Feb-2022,24
+Alabama,23-Feb-2022,16
+Alabama,02-Mar-2022,11
+Alabama,09-Mar-2022,8
+Alabama,16-Mar-2022,8
+Alabama,23-Mar-2022,8
+Alabama,30-Mar-2022,8
+Alabama,06-Apr-2022,14
+Alabama,13-Apr-2022,12
+Alabama,20-Apr-2022,16
+Alabama,27-Apr-2022,17
+Alabama,04-May-2022,16
+Alabama,11-May-2022,24
+Alabama,18-May-2022,29
+Alabama,25-May-2022,52
+Alabama,08-Jun-2022,59
+Arizona,15-Apr-2020,1
+Arizona,23-Jun-2021,7
+Arizona,30-Jun-2021,5
+Arizona,07-Jul-2021,5
+Arizona,14-Jul-2021,5
+Arizona,21-Jul-2021,14
+Arizona,28-Jul-2021,27
+Arizona,04-Aug-2021,38
+Arizona,11-Aug-2021,46
+Arizona,18-Aug-2021,35
+Arizona,09-Feb-2022,32
+Arizona,16-Feb-2022,38
+Arizona,23-Feb-2022,28
+Arizona,02-Mar-2022,24
+Arizona,09-Mar-2022,30
+Arizona,16-Mar-2022,16
+Arizona,23-Mar-2022,10
+Arizona,30-Mar-2022,13
+Arizona,06-Apr-2022,21
+Arizona,13-Apr-2022,34
+Arizona,20-Apr-2022,34
+Arizona,27-Apr-2022,31
+Arizona,04-May-2022,49
+Arizona,11-May-2022,71
+Arizona,18-May-2022,77
+Arizona,25-May-2022,93
+Arizona,01-Jun-2022,110
+Arizona,08-Jun-2022,98
+Arkansas,09-Jun-2021,29
+Arkansas,16-Jun-2021,43
+Arkansas,23-Jun-2021,57
+Arkansas,30-Jun-2021,91
+Arkansas,07-Jul-2021,158
+Arkansas,14-Jul-2021,108
+Arkansas,21-Jul-2021,154
+Arkansas,28-Jul-2021,225
+Arkansas,04-Aug-2021,287
+Arkansas,11-Aug-2021,315
+Arkansas,18-Aug-2021,185
+Arkansas,26-Jan-2022,168
+Arkansas,02-Feb-2022,289
+Arkansas,09-Feb-2022,181
+Arkansas,16-Feb-2022,69
+Arkansas,23-Feb-2022,33
+Arkansas,02-Mar-2022,37
+Arkansas,09-Mar-2022,27
+Arkansas,16-Mar-2022,20
+Arkansas,23-Mar-2022,17
+Arkansas,30-Mar-2022,30
+Arkansas,06-Apr-2022,38
+Arkansas,13-Apr-2022,40
+Arkansas,20-Apr-2022,42
+Arkansas,27-Apr-2022,40
+Arkansas,04-May-2022,72
+Arkansas,11-May-2022,82
+Arkansas,18-May-2022,91
+Arkansas,25-May-2022,87
+Arkansas,01-Jun-2022,109
+Arkansas,08-Jun-2022,75
+California,20-May-2020,1
+California,03-Jun-2020,6
+California,10-Jun-2020,1
+California,17-Jun-2020,4
+California,24-Jun-2020,2
+California,01-Jul-2020,1
+California,08-Jul-2020,1
+California,15-Jul-2020,2
+California,22-Jul-2020,3
+California,05-Aug-2020,1
+California,12-Aug-2020,6
+California,19-Aug-2020,4
+California,26-Aug-2020,4
+California,02-Sep-2020,4
+California,09-Sep-2020,4
+California,16-Sep-2020,4
+California,23-Sep-2020,2
+California,30-Sep-2020,2
+California,07-Oct-2020,1
+California,14-Oct-2020,1
+California,21-Oct-2020,3
+California,28-Oct-2020,3
+California,04-Nov-2020,5
+California,11-Nov-2020,9
+California,18-Nov-2020,14
+California,25-Nov-2020,20
+California,02-Dec-2020,26
+California,09-Dec-2020,27
+California,16-Dec-2020,34
+California,23-Dec-2020,25
+California,30-Dec-2020,10
+California,06-Jan-2021,29
+California,13-Jan-2021,25
+California,20-Jan-2021,15
+California,27-Jan-2021,12
+California,03-Feb-2021,2
+California,10-Feb-2021,2
+California,17-Feb-2021,1
+California,24-Feb-2021,1
+California,07-Apr-2021,1
+California,02-Jun-2021,1
+California,09-Jun-2021,4
+California,16-Jun-2021,11
+California,23-Jun-2021,12
+California,30-Jun-2021,18
+California,07-Jul-2021,30
+California,14-Jul-2021,33
+California,21-Jul-2021,49
+California,28-Jul-2021,79
+California,04-Aug-2021,95
+California,11-Aug-2021,110
+California,18-Aug-2021,109
+California,25-Aug-2021,4
+California,01-Sep-2021,34
+California,08-Sep-2021,34
+California,15-Sep-2021,32
+California,22-Sep-2021,23
+California,29-Sep-2021,9
+California,06-Oct-2021,9
+California,13-Oct-2021,7
+California,20-Oct-2021,1
+California,27-Oct-2021,7
+California,03-Nov-2021,28
+California,10-Nov-2021,8
+California,17-Nov-2021,6
+California,01-Dec-2021,7
+California,08-Dec-2021,5
+California,15-Dec-2021,6
+California,22-Dec-2021,22
+California,29-Dec-2021,24
+California,05-Jan-2022,52
+California,12-Jan-2022,40
+California,19-Jan-2022,40
+California,26-Jan-2022,114
+California,02-Feb-2022,90
+California,09-Feb-2022,49
+California,16-Feb-2022,36
+California,23-Feb-2022,27
+California,02-Mar-2022,18
+California,09-Mar-2022,13
+California,16-Mar-2022,12
+California,23-Mar-2022,15
+California,30-Mar-2022,19
+California,06-Apr-2022,29
+California,13-Apr-2022,32
+California,20-Apr-2022,36
+California,27-Apr-2022,38
+California,04-May-2022,46
+California,11-May-2022,59
+California,18-May-2022,77
+California,25-May-2022,155
+California,01-Jun-2022,152
+California,08-Jun-2022,157
+Colorado,25-Mar-2020,4
+Colorado,15-Apr-2020,15
+Colorado,29-Apr-2020,27
+Colorado,06-May-2020,24
+Colorado,13-May-2020,8
+Colorado,20-May-2020,7
+Colorado,27-May-2020,8
+Colorado,03-Jun-2020,7
+Colorado,10-Jun-2020,7
+Colorado,17-Jun-2020,5
+Colorado,24-Jun-2020,3
+Colorado,01-Jul-2020,3
+Colorado,08-Jul-2020,6
+Colorado,29-Jul-2020,7
+Colorado,05-Aug-2020,4
+Colorado,12-Aug-2020,2
+Colorado,26-Aug-2020,4
+Colorado,09-Sep-2020,4
+Colorado,16-Sep-2020,2
+Colorado,23-Sep-2020,5
+Colorado,30-Sep-2020,11
+Colorado,07-Oct-2020,12
+Colorado,14-Oct-2020,14
+Colorado,21-Oct-2020,23
+Colorado,28-Oct-2020,31
+Colorado,04-Nov-2020,59
+Colorado,11-Nov-2020,79
+Colorado,18-Nov-2020,62
+Colorado,25-Nov-2020,36
+Colorado,02-Dec-2020,34
+Colorado,09-Dec-2020,37
+Colorado,16-Dec-2020,42
+Colorado,23-Dec-2020,32
+Colorado,20-Jan-2021,14
+Colorado,27-Jan-2021,13
+Colorado,03-Feb-2021,10
+Colorado,17-Feb-2021,8
+Colorado,24-Feb-2021,6
+Colorado,03-Mar-2021,6
+Colorado,17-Mar-2021,8
+Colorado,24-Mar-2021,14
+Colorado,31-Mar-2021,15
+Colorado,07-Apr-2021,12
+Colorado,14-Apr-2021,15
+Colorado,21-Apr-2021,18
+Colorado,28-Apr-2021,15
+Colorado,05-May-2021,11
+Colorado,12-May-2021,7
+Colorado,19-May-2021,8
+Colorado,02-Jun-2021,6
+Colorado,09-Jun-2021,6
+Colorado,16-Jun-2021,8
+Colorado,23-Jun-2021,9
+Colorado,30-Jun-2021,11
+Colorado,07-Jul-2021,7
+Colorado,14-Jul-2021,12
+Colorado,21-Jul-2021,23
+Colorado,28-Jul-2021,32
+Colorado,04-Aug-2021,35
+Colorado,11-Aug-2021,38
+Colorado,18-Aug-2021,43
+Colorado,25-Aug-2021,50
+Colorado,08-Sep-2021,53
+Colorado,15-Sep-2021,39
+Colorado,22-Sep-2021,28
+Colorado,29-Sep-2021,47
+Colorado,06-Oct-2021,56
+Colorado,13-Oct-2021,38
+Colorado,20-Oct-2021,63
+Colorado,27-Oct-2021,115
+Colorado,03-Nov-2021,93
+Colorado,10-Nov-2021,75
+Colorado,17-Nov-2021,116
+Colorado,24-Nov-2021,159
+Colorado,01-Dec-2021,108
+Colorado,08-Dec-2021,70
+Colorado,15-Dec-2021,158
+Colorado,29-Dec-2021,373
+Colorado,05-Jan-2022,373
+Colorado,19-Jan-2022,173
+Colorado,26-Jan-2022,93
+Colorado,02-Feb-2022,47
+Colorado,09-Feb-2022,19
+Colorado,23-Feb-2022,15
+Colorado,02-Mar-2022,12
+Colorado,09-Mar-2022,13
+Colorado,16-Mar-2022,18
+Colorado,23-Mar-2022,22
+Colorado,30-Mar-2022,22
+Colorado,06-Apr-2022,28
+Colorado,13-Apr-2022,56
+Colorado,20-Apr-2022,161
+Colorado,27-Apr-2022,281
+Colorado,04-May-2022,146
+Colorado,11-May-2022,129
+Colorado,25-May-2022,152
+Colorado,01-Jun-2022,153
+Connecticut,15-Apr-2020,11
+Connecticut,22-Apr-2020,8
+Connecticut,29-Apr-2020,5
+Connecticut,06-May-2020,3
+Connecticut,20-May-2020,49
+Connecticut,17-Jun-2020,8
+Connecticut,24-Jun-2020,3
+Connecticut,01-Jul-2020,4
+Connecticut,08-Jul-2020,4
+Connecticut,22-Jul-2020,15
+Connecticut,05-Aug-2020,26
+Connecticut,12-Aug-2020,7
+Connecticut,19-Aug-2020,1
+Connecticut,26-Aug-2020,1
+Connecticut,02-Sep-2020,6
+Connecticut,16-Sep-2020,6
+Connecticut,30-Sep-2020,9
+Connecticut,07-Oct-2020,8
+Connecticut,14-Oct-2020,15
+Connecticut,21-Oct-2020,15
+Connecticut,28-Oct-2020,37
+Connecticut,04-Nov-2020,88
+Connecticut,11-Nov-2020,123
+Connecticut,18-Nov-2020,190
+Connecticut,25-Nov-2020,141
+Connecticut,02-Dec-2020,128
+Connecticut,09-Dec-2020,137
+Connecticut,16-Dec-2020,194
+Connecticut,23-Dec-2020,185
+Connecticut,30-Dec-2020,278
+Connecticut,06-Jan-2021,167
+Connecticut,13-Jan-2021,127
+Connecticut,20-Jan-2021,121
+Connecticut,27-Jan-2021,123
+Connecticut,03-Feb-2021,182
+Connecticut,10-Feb-2021,114
+Connecticut,17-Feb-2021,76
+Connecticut,24-Feb-2021,91
+Connecticut,03-Mar-2021,68
+Connecticut,10-Mar-2021,61
+Connecticut,17-Mar-2021,15
+Connecticut,24-Mar-2021,38
+Connecticut,31-Mar-2021,145
+Connecticut,07-Apr-2021,128
+Connecticut,14-Apr-2021,119
+Connecticut,21-Apr-2021,146
+Connecticut,28-Apr-2021,57
+Connecticut,05-May-2021,19
+Connecticut,12-May-2021,8
+Connecticut,19-May-2021,6
+Connecticut,26-May-2021,4
+Connecticut,02-Jun-2021,4
+Connecticut,09-Jun-2021,5
+Connecticut,16-Jun-2021,7
+Connecticut,23-Jun-2021,30
+Connecticut,30-Jun-2021,32
+Connecticut,07-Jul-2021,33
+Connecticut,14-Jul-2021,41
+Connecticut,21-Jul-2021,102
+Connecticut,28-Jul-2021,172
+Connecticut,04-Aug-2021,267
+Connecticut,11-Aug-2021,251
+Connecticut,18-Aug-2021,214
+Connecticut,25-Aug-2021,169
+Connecticut,01-Sep-2021,81
+Connecticut,08-Sep-2021,59
+Connecticut,15-Sep-2021,111
+Connecticut,22-Sep-2021,139
+Connecticut,29-Sep-2021,70
+Connecticut,06-Oct-2021,50
+Connecticut,13-Oct-2021,42
+Connecticut,20-Oct-2021,21
+Connecticut,27-Oct-2021,29
+Connecticut,03-Nov-2021,53
+Connecticut,10-Nov-2021,38
+Connecticut,17-Nov-2021,93
+Connecticut,24-Nov-2021,145
+Connecticut,01-Dec-2021,198
+Connecticut,08-Dec-2021,224
+Connecticut,15-Dec-2021,512
+Connecticut,22-Dec-2021,602
+Connecticut,29-Dec-2021,602
+Connecticut,05-Jan-2022,602
+Connecticut,12-Jan-2022,602
+Connecticut,19-Jan-2022,284
+Connecticut,26-Jan-2022,710
+Connecticut,02-Feb-2022,411
+Connecticut,09-Feb-2022,241
+Connecticut,16-Feb-2022,142
+Connecticut,23-Feb-2022,108
+Connecticut,02-Mar-2022,113
+Connecticut,09-Mar-2022,123
+Connecticut,16-Mar-2022,134
+Connecticut,23-Mar-2022,154
+Connecticut,30-Mar-2022,175
+Connecticut,06-Apr-2022,299
+Connecticut,13-Apr-2022,415
+Connecticut,20-Apr-2022,440
+Connecticut,27-Apr-2022,454
+Connecticut,04-May-2022,497
+Connecticut,11-May-2022,634
+Connecticut,18-May-2022,701
+Connecticut,25-May-2022,596
+Connecticut,01-Jun-2022,723
+Connecticut,08-Jun-2022,583
+Delaware,15-Apr-2020,91
+Delaware,22-Apr-2020,258
+Delaware,29-Apr-2020,111
+Delaware,06-May-2020,148
+Delaware,13-May-2020,197
+Delaware,20-May-2020,96
+Delaware,27-May-2020,51
+Delaware,03-Jun-2020,90
+Delaware,10-Jun-2020,98
+Delaware,17-Jun-2020,40
+Delaware,24-Jun-2020,28
+Delaware,01-Jul-2020,35
+Delaware,08-Jul-2020,41
+Delaware,15-Jul-2020,54
+Delaware,22-Jul-2020,43
+Delaware,29-Jul-2020,58
+Delaware,05-Aug-2020,86
+Delaware,12-Aug-2020,42
+Delaware,19-Aug-2020,23
+Delaware,26-Aug-2020,30
+Delaware,02-Sep-2020,49
+Delaware,09-Sep-2020,41
+Delaware,16-Sep-2020,41
+Delaware,23-Sep-2020,42
+Delaware,30-Sep-2020,41
+Delaware,07-Oct-2020,33
+Delaware,14-Oct-2020,33
+Delaware,21-Oct-2020,31
+Delaware,28-Oct-2020,49
+Delaware,04-Nov-2020,53
+Delaware,11-Nov-2020,101
+Delaware,18-Nov-2020,269
+Delaware,25-Nov-2020,424
+Delaware,02-Dec-2020,744
+Delaware,09-Dec-2020,748
+Delaware,16-Dec-2020,655
+Delaware,23-Dec-2020,494
+Delaware,30-Dec-2020,523
+Delaware,16-Jun-2021,15
+Delaware,23-Jun-2021,18
+Delaware,30-Jun-2021,11
+Delaware,07-Jul-2021,7
+Delaware,14-Jul-2021,22
+Delaware,21-Jul-2021,24
+Delaware,28-Jul-2021,56
+Delaware,04-Aug-2021,70
+Delaware,11-Aug-2021,68
+Delaware,18-Aug-2021,116
+Delaware,26-Jan-2022,522
+Delaware,02-Feb-2022,315
+Delaware,09-Feb-2022,145
+Delaware,16-Feb-2022,75
+Delaware,23-Feb-2022,52
+Delaware,02-Mar-2022,60
+Delaware,09-Mar-2022,52
+Delaware,16-Mar-2022,49
+Delaware,23-Mar-2022,54
+Delaware,30-Mar-2022,73
+Delaware,06-Apr-2022,119
+Delaware,13-Apr-2022,163
+Delaware,20-Apr-2022,146
+Delaware,27-Apr-2022,167
+Delaware,04-May-2022,271
+Delaware,11-May-2022,391
+Delaware,18-May-2022,355
+Delaware,25-May-2022,348
+Delaware,01-Jun-2022,260
+Delaware,08-Jun-2022,215
+Florida,25-Mar-2020,8
+Florida,01-Apr-2020,18
+Florida,08-Apr-2020,14
+Florida,15-Apr-2020,9
+Florida,22-Apr-2020,11
+Florida,29-Apr-2020,12
+Florida,06-May-2020,129
+Florida,13-May-2020,115
+Florida,20-May-2020,34
+Florida,27-May-2020,24
+Florida,03-Jun-2020,22
+Florida,10-Jun-2020,37
+Florida,17-Jun-2020,85
+Florida,24-Jun-2020,43
+Florida,01-Jul-2020,87
+Florida,08-Jul-2020,97
+Florida,15-Jul-2020,119
+Florida,22-Jul-2020,77
+Florida,29-Jul-2020,54
+Florida,05-Aug-2020,42
+Florida,12-Aug-2020,34
+Florida,19-Aug-2020,16
+Florida,26-Aug-2020,14
+Florida,02-Sep-2020,12
+Florida,09-Sep-2020,10
+Florida,16-Sep-2020,8
+Florida,23-Sep-2020,8
+Florida,30-Sep-2020,6
+Florida,07-Oct-2020,8
+Florida,14-Oct-2020,13
+Florida,21-Oct-2020,13
+Florida,28-Oct-2020,26
+Florida,04-Nov-2020,25
+Florida,11-Nov-2020,31
+Florida,18-Nov-2020,67
+Florida,25-Nov-2020,95
+Florida,02-Dec-2020,83
+Florida,09-Dec-2020,72
+Florida,16-Dec-2020,91
+Florida,23-Dec-2020,61
+Florida,30-Dec-2020,79
+Florida,06-Jan-2021,84
+Florida,13-Jan-2021,83
+Florida,20-Jan-2021,57
+Florida,27-Jan-2021,53
+Florida,03-Feb-2021,28
+Florida,10-Feb-2021,29
+Florida,17-Feb-2021,18
+Florida,24-Feb-2021,23
+Florida,03-Mar-2021,24
+Florida,10-Mar-2021,35
+Florida,17-Mar-2021,18
+Florida,24-Mar-2021,26
+Florida,31-Mar-2021,29
+Florida,07-Apr-2021,33
+Florida,14-Apr-2021,21
+Florida,21-Apr-2021,20
+Florida,28-Apr-2021,16
+Florida,05-May-2021,15
+Florida,12-May-2021,10
+Florida,19-May-2021,12
+Florida,26-May-2021,6
+Florida,02-Jun-2021,14
+Florida,09-Jun-2021,38
+Florida,16-Jun-2021,40
+Florida,23-Jun-2021,38
+Florida,30-Jun-2021,43
+Florida,07-Jul-2021,71
+Florida,14-Jul-2021,138
+Florida,21-Jul-2021,215
+Florida,28-Jul-2021,360
+Florida,04-Aug-2021,330
+Florida,11-Aug-2021,436
+Florida,18-Aug-2021,366
+Florida,25-Aug-2021,264
+Florida,01-Sep-2021,247
+Florida,08-Sep-2021,161
+Florida,15-Sep-2021,89
+Florida,22-Sep-2021,82
+Florida,29-Sep-2021,53
+Florida,06-Oct-2021,66
+Florida,13-Oct-2021,29
+Florida,20-Oct-2021,43
+Florida,27-Oct-2021,24
+Florida,03-Nov-2021,46
+Florida,10-Nov-2021,36
+Florida,17-Nov-2021,74
+Florida,24-Nov-2021,51
+Florida,01-Dec-2021,37
+Florida,08-Dec-2021,81
+Florida,15-Dec-2021,116
+Florida,22-Dec-2021,305
+Florida,29-Dec-2021,200
+Florida,05-Jan-2022,300
+Florida,12-Jan-2022,181
+Florida,19-Jan-2022,225
+Florida,26-Jan-2022,197
+Florida,02-Feb-2022,152
+Florida,09-Feb-2022,104
+Florida,16-Feb-2022,58
+Florida,23-Feb-2022,37
+Florida,02-Mar-2022,23
+Florida,09-Mar-2022,28
+Florida,16-Mar-2022,24
+Florida,23-Mar-2022,42
+Florida,30-Mar-2022,59
+Florida,06-Apr-2022,92
+Florida,13-Apr-2022,83
+Florida,20-Apr-2022,131
+Florida,27-Apr-2022,124
+Florida,04-May-2022,191
+Florida,11-May-2022,227
+Florida,18-May-2022,334
+Florida,25-May-2022,311
+Florida,01-Jun-2022,301
+Florida,08-Jun-2022,396
+Georgia,16-Jun-2021,1
+Georgia,23-Jun-2021,1
+Georgia,30-Jun-2021,2
+Georgia,07-Jul-2021,1
+Georgia,14-Jul-2021,2
+Georgia,21-Jul-2021,7
+Georgia,28-Jul-2021,13
+Georgia,04-Aug-2021,17
+Georgia,11-Aug-2021,24
+Georgia,18-Aug-2021,23
+Georgia,02-Feb-2022,10
+Georgia,09-Feb-2022,9
+Georgia,16-Feb-2022,3
+Georgia,23-Feb-2022,1
+Georgia,02-Mar-2022,1
+Georgia,06-Apr-2022,1
+Georgia,13-Apr-2022,1
+Georgia,20-Apr-2022,1
+Georgia,27-Apr-2022,2
+Georgia,04-May-2022,2
+Georgia,11-May-2022,2
+Georgia,18-May-2022,5
+Georgia,25-May-2022,6
+Georgia,01-Jun-2022,9
+Georgia,08-Jun-2022,11
+Hawaii,04-May-2022,94
+Hawaii,11-May-2022,108
+Hawaii,18-May-2022,91
+Hawaii,25-May-2022,131
+Hawaii,01-Jun-2022,92
+Hawaii,08-Jun-2022,129
+Idaho,13-May-2020,2
+Idaho,20-May-2020,7
+Idaho,27-May-2020,5
+Idaho,03-Jun-2020,9
+Idaho,10-Jun-2020,30
+Idaho,17-Jun-2020,60
+Idaho,24-Jun-2020,98
+Idaho,01-Jul-2020,5
+Idaho,15-Jul-2020,5
+Idaho,19-Aug-2020,10
+Idaho,02-Sep-2020,6
+Idaho,16-Sep-2020,7
+Idaho,30-Sep-2020,9
+Idaho,09-Jun-2021,1
+Idaho,16-Jun-2021,18
+Idaho,23-Jun-2021,23
+Idaho,07-Jul-2021,15
+Idaho,14-Jul-2021,21
+Idaho,21-Jul-2021,64
+Idaho,28-Jul-2021,108
+Idaho,04-Aug-2021,153
+Idaho,11-Aug-2021,216
+Idaho,18-Aug-2021,251
+Idaho,02-Feb-2022,332
+Idaho,09-Feb-2022,210
+Idaho,16-Feb-2022,111
+Idaho,23-Feb-2022,60
+Idaho,02-Mar-2022,42
+Idaho,09-Mar-2022,30
+Idaho,16-Mar-2022,22
+Idaho,23-Mar-2022,17
+Idaho,30-Mar-2022,20
+Idaho,06-Apr-2022,37
+Idaho,13-Apr-2022,50
+Idaho,20-Apr-2022,59
+Idaho,27-Apr-2022,60
+Idaho,04-May-2022,39
+Idaho,11-May-2022,73
+Idaho,18-May-2022,136
+Idaho,25-May-2022,214
+Idaho,01-Jun-2022,287
+Idaho,08-Jun-2022,237
+Illinois,15-Apr-2020,2
+Illinois,22-Apr-2020,2
+Illinois,29-Apr-2020,2
+Illinois,13-May-2020,1
+Illinois,20-May-2020,1
+Illinois,03-Jun-2020,2
+Illinois,10-Jun-2020,3
+Illinois,17-Jun-2020,2
+Illinois,24-Jun-2020,1
+Illinois,01-Jul-2020,1
+Illinois,08-Jul-2020,1
+Illinois,15-Jul-2020,1
+Illinois,22-Jul-2020,1
+Illinois,29-Jul-2020,2
+Illinois,05-Aug-2020,4
+Illinois,12-Aug-2020,4
+Illinois,19-Aug-2020,3
+Illinois,26-Aug-2020,2
+Illinois,02-Sep-2020,2
+Illinois,09-Sep-2020,3
+Illinois,16-Sep-2020,2
+Illinois,23-Sep-2020,2
+Illinois,30-Sep-2020,1
+Illinois,07-Oct-2020,3
+Illinois,14-Oct-2020,4
+Illinois,21-Oct-2020,4
+Illinois,28-Oct-2020,10
+Illinois,04-Nov-2020,8
+Illinois,11-Nov-2020,10
+Illinois,18-Nov-2020,16
+Illinois,25-Nov-2020,19
+Illinois,02-Dec-2020,14
+Illinois,16-Dec-2020,17
+Illinois,23-Dec-2020,16
+Illinois,30-Dec-2020,16
+Illinois,06-Jan-2021,17
+Illinois,09-Jun-2021,2
+Illinois,16-Jun-2021,11
+Illinois,23-Jun-2021,17
+Illinois,30-Jun-2021,12
+Illinois,07-Jul-2021,11
+Illinois,14-Jul-2021,15
+Illinois,21-Jul-2021,23
+Illinois,28-Jul-2021,29
+Illinois,04-Aug-2021,47
+Illinois,11-Aug-2021,64
+Illinois,18-Aug-2021,63
+Illinois,25-Aug-2021,8
+Illinois,01-Sep-2021,6
+Illinois,08-Sep-2021,4
+Illinois,15-Sep-2021,2
+Illinois,22-Sep-2021,4
+Illinois,29-Sep-2021,5
+Illinois,06-Oct-2021,3
+Illinois,13-Oct-2021,2
+Illinois,20-Oct-2021,2
+Illinois,27-Oct-2021,2
+Illinois,26-Jan-2022,17
+Illinois,02-Feb-2022,9
+Illinois,09-Feb-2022,6
+Illinois,16-Feb-2022,8
+Illinois,23-Feb-2022,8
+Illinois,02-Mar-2022,5
+Illinois,09-Mar-2022,6
+Illinois,16-Mar-2022,6
+Illinois,23-Mar-2022,5
+Illinois,30-Mar-2022,7
+Illinois,06-Apr-2022,7
+Illinois,13-Apr-2022,8
+Illinois,20-Apr-2022,10
+Illinois,27-Apr-2022,11
+Illinois,04-May-2022,141
+Illinois,11-May-2022,172
+Illinois,18-May-2022,196
+Illinois,25-May-2022,200
+Illinois,01-Jun-2022,198
+Illinois,08-Jun-2022,189
+Indiana,13-May-2020,9
+Indiana,20-May-2020,8
+Indiana,27-May-2020,3
+Indiana,03-Jun-2020,3
+Indiana,17-Jun-2020,2
+Indiana,24-Jun-2020,5
+Indiana,08-Jul-2020,9
+Indiana,15-Jul-2020,15
+Indiana,22-Jul-2020,11
+Indiana,29-Jul-2020,11
+Indiana,05-Aug-2020,12
+Indiana,12-Aug-2020,15
+Indiana,19-Aug-2020,14
+Indiana,26-Aug-2020,19
+Indiana,02-Sep-2020,15
+Indiana,09-Sep-2020,6
+Indiana,16-Sep-2020,8
+Indiana,23-Sep-2020,12
+Indiana,30-Sep-2020,10
+Indiana,07-Oct-2020,13
+Indiana,14-Oct-2020,20
+Indiana,21-Oct-2020,37
+Indiana,28-Oct-2020,46
+Indiana,04-Nov-2020,79
+Indiana,11-Nov-2020,86
+Indiana,18-Nov-2020,103
+Indiana,25-Nov-2020,70
+Indiana,02-Dec-2020,4
+Indiana,09-Dec-2020,49
+Indiana,16-Dec-2020,65
+Indiana,23-Dec-2020,85
+Indiana,20-Jan-2021,24
+Indiana,27-Jan-2021,39
+Indiana,03-Feb-2021,27
+Indiana,10-Feb-2021,10
+Indiana,17-Feb-2021,9
+Indiana,24-Feb-2021,7
+Indiana,03-Mar-2021,7
+Indiana,10-Mar-2021,6
+Indiana,17-Mar-2021,7
+Indiana,24-Mar-2021,6
+Indiana,31-Mar-2021,9
+Indiana,07-Apr-2021,13
+Indiana,14-Apr-2021,15
+Indiana,21-Apr-2021,14
+Indiana,28-Apr-2021,21
+Indiana,05-May-2021,14
+Indiana,12-May-2021,13
+Indiana,19-May-2021,10
+Indiana,26-May-2021,1
+Indiana,02-Jun-2021,4
+Indiana,09-Jun-2021,2
+Indiana,16-Jun-2021,2
+Indiana,23-Jun-2021,3
+Indiana,30-Jun-2021,1
+Indiana,07-Jul-2021,1
+Indiana,14-Jul-2021,1
+Indiana,21-Jul-2021,2
+Indiana,28-Jul-2021,2
+Indiana,04-Aug-2021,15
+Indiana,11-Aug-2021,24
+Indiana,18-Aug-2021,34
+Indiana,25-Aug-2021,37
+Indiana,01-Sep-2021,24
+Indiana,08-Sep-2021,52
+Indiana,15-Sep-2021,57
+Indiana,22-Sep-2021,55
+Indiana,29-Sep-2021,13
+Indiana,06-Oct-2021,57
+Indiana,13-Oct-2021,42
+Indiana,20-Oct-2021,9
+Indiana,27-Oct-2021,41
+Indiana,03-Nov-2021,41
+Indiana,10-Nov-2021,53
+Indiana,17-Nov-2021,133
+Indiana,24-Nov-2021,233
+Indiana,01-Dec-2021,220
+Indiana,08-Dec-2021,164
+Indiana,15-Dec-2021,219
+Indiana,22-Dec-2021,80
+Indiana,29-Dec-2021,480
+Indiana,05-Jan-2022,474
+Indiana,12-Jan-2022,285
+Indiana,19-Jan-2022,137
+Indiana,26-Jan-2022,95
+Indiana,02-Feb-2022,67
+Indiana,09-Feb-2022,35
+Indiana,16-Feb-2022,21
+Indiana,23-Feb-2022,20
+Indiana,02-Mar-2022,7
+Indiana,09-Mar-2022,14
+Indiana,16-Mar-2022,13
+Indiana,23-Mar-2022,14
+Indiana,30-Mar-2022,26
+Indiana,06-Apr-2022,41
+Indiana,13-Apr-2022,53
+Indiana,20-Apr-2022,53
+Indiana,27-Apr-2022,60
+Indiana,04-May-2022,74
+Indiana,11-May-2022,99
+Indiana,18-May-2022,106
+Indiana,25-May-2022,68
+Indiana,01-Jun-2022,57
+Indiana,08-Jun-2022,63
+Iowa,21-Jul-2021,15
+Iowa,28-Jul-2021,22
+Iowa,04-Aug-2021,45
+Iowa,11-Aug-2021,55
+Iowa,18-Aug-2021,63
+Iowa,25-Aug-2021,64
+Iowa,01-Sep-2021,113
+Iowa,08-Sep-2021,116
+Iowa,15-Sep-2021,145
+Iowa,22-Sep-2021,104
+Iowa,29-Sep-2021,87
+Iowa,06-Oct-2021,79
+Iowa,13-Oct-2021,106
+Iowa,20-Oct-2021,85
+Iowa,27-Oct-2021,59
+Iowa,03-Nov-2021,50
+Iowa,10-Nov-2021,47
+Iowa,17-Nov-2021,104
+Iowa,24-Nov-2021,214
+Iowa,01-Dec-2021,194
+Iowa,08-Dec-2021,205
+Iowa,15-Dec-2021,199
+Iowa,22-Dec-2021,164
+Iowa,29-Dec-2021,299
+Iowa,05-Jan-2022,593
+Iowa,12-Jan-2022,618
+Iowa,19-Jan-2022,453
+Iowa,26-Jan-2022,256
+Iowa,02-Feb-2022,157
+Iowa,09-Feb-2022,81
+Iowa,16-Feb-2022,46
+Iowa,23-Feb-2022,25
+Iowa,02-Mar-2022,18
+Iowa,09-Mar-2022,17
+Iowa,16-Mar-2022,16
+Iowa,23-Mar-2022,15
+Iowa,30-Mar-2022,15
+Iowa,06-Apr-2022,23
+Iowa,13-Apr-2022,22
+Iowa,20-Apr-2022,18
+Iowa,27-Apr-2022,21
+Iowa,04-May-2022,35
+Iowa,11-May-2022,44
+Iowa,18-May-2022,54
+Iowa,25-May-2022,62
+Iowa,01-Jun-2022,57
+Iowa,08-Jun-2022,58
+Kansas,09-Jun-2021,7
+Kansas,16-Jun-2021,29
+Kansas,23-Jun-2021,37
+Kansas,30-Jun-2021,24
+Kansas,07-Jul-2021,30
+Kansas,14-Jul-2021,61
+Kansas,21-Jul-2021,118
+Kansas,28-Jul-2021,132
+Kansas,04-Aug-2021,171
+Kansas,11-Aug-2021,188
+Kansas,18-Aug-2021,160
+Kansas,26-Jan-2022,297
+Kansas,02-Feb-2022,150
+Kansas,09-Feb-2022,197
+Kansas,16-Feb-2022,110
+Kansas,23-Feb-2022,68
+Kansas,02-Mar-2022,37
+Kansas,09-Mar-2022,29
+Kansas,16-Mar-2022,32
+Kansas,23-Mar-2022,33
+Kansas,30-Mar-2022,48
+Kansas,06-Apr-2022,68
+Kansas,13-Apr-2022,88
+Kansas,20-Apr-2022,82
+Kansas,27-Apr-2022,99
+Kansas,04-May-2022,139
+Kansas,11-May-2022,175
+Kansas,18-May-2022,170
+Kansas,25-May-2022,197
+Kansas,01-Jun-2022,188
+Kansas,08-Jun-2022,216
+Kentucky,08-Apr-2020,10
+Kentucky,15-Apr-2020,30
+Kentucky,22-Apr-2020,57
+Kentucky,29-Apr-2020,44
+Kentucky,06-May-2020,33
+Kentucky,13-May-2020,11
+Kentucky,20-May-2020,6
+Kentucky,27-May-2020,25
+Kentucky,10-Jun-2020,22
+Kentucky,17-Jun-2020,17
+Kentucky,24-Jun-2020,11
+Kentucky,01-Jul-2020,17
+Kentucky,08-Jul-2020,29
+Kentucky,15-Jul-2020,50
+Kentucky,22-Jul-2020,32
+Kentucky,05-Aug-2020,38
+Kentucky,12-Aug-2020,35
+Kentucky,19-Aug-2020,38
+Kentucky,26-Aug-2020,41
+Kentucky,02-Sep-2020,32
+Kentucky,09-Sep-2020,17
+Kentucky,16-Sep-2020,11
+Kentucky,23-Sep-2020,13
+Kentucky,30-Sep-2020,21
+Kentucky,07-Oct-2020,26
+Kentucky,14-Oct-2020,40
+Kentucky,21-Oct-2020,42
+Kentucky,04-Nov-2020,52
+Kentucky,11-Nov-2020,80
+Kentucky,18-Nov-2020,104
+Kentucky,25-Nov-2020,92
+Kentucky,02-Dec-2020,77
+Kentucky,09-Dec-2020,60
+Kentucky,16-Dec-2020,89
+Kentucky,23-Dec-2020,112
+Kentucky,30-Dec-2020,96
+Kentucky,06-Jan-2021,130
+Kentucky,13-Jan-2021,133
+Kentucky,20-Jan-2021,84
+Kentucky,27-Jan-2021,56
+Kentucky,03-Feb-2021,58
+Kentucky,10-Feb-2021,37
+Kentucky,17-Feb-2021,28
+Kentucky,24-Feb-2021,29
+Kentucky,03-Mar-2021,37
+Kentucky,10-Mar-2021,26
+Kentucky,17-Mar-2021,15
+Kentucky,24-Mar-2021,12
+Kentucky,31-Mar-2021,14
+Kentucky,07-Apr-2021,17
+Kentucky,14-Apr-2021,12
+Kentucky,21-Apr-2021,13
+Kentucky,05-May-2021,12
+Kentucky,12-May-2021,10
+Kentucky,19-May-2021,9
+Kentucky,26-May-2021,5
+Kentucky,02-Jun-2021,4
+Kentucky,09-Jun-2021,19
+Kentucky,16-Jun-2021,12
+Kentucky,23-Jun-2021,6
+Kentucky,30-Jun-2021,5
+Kentucky,07-Jul-2021,9
+Kentucky,14-Jul-2021,14
+Kentucky,21-Jul-2021,26
+Kentucky,28-Jul-2021,63
+Kentucky,04-Aug-2021,119
+Kentucky,11-Aug-2021,117
+Kentucky,18-Aug-2021,101
+Kentucky,25-Aug-2021,185
+Kentucky,01-Sep-2021,148
+Kentucky,08-Sep-2021,92
+Kentucky,15-Sep-2021,96
+Kentucky,22-Sep-2021,114
+Kentucky,06-Oct-2021,75
+Kentucky,13-Oct-2021,60
+Kentucky,20-Oct-2021,80
+Kentucky,27-Oct-2021,92
+Kentucky,03-Nov-2021,53
+Kentucky,10-Nov-2021,25
+Kentucky,17-Nov-2021,63
+Kentucky,24-Nov-2021,97
+Kentucky,01-Dec-2021,125
+Kentucky,08-Dec-2021,125
+Kentucky,15-Dec-2021,170
+Kentucky,22-Dec-2021,43
+Kentucky,29-Dec-2021,404
+Kentucky,05-Jan-2022,599
+Kentucky,12-Jan-2022,559
+Kentucky,19-Jan-2022,405
+Kentucky,26-Jan-2022,335
+Kentucky,02-Feb-2022,227
+Kentucky,09-Feb-2022,104
+Kentucky,16-Feb-2022,66
+Kentucky,23-Feb-2022,34
+Kentucky,02-Mar-2022,32
+Kentucky,09-Mar-2022,36
+Kentucky,16-Mar-2022,25
+Kentucky,23-Mar-2022,23
+Kentucky,30-Mar-2022,3
+Kentucky,06-Apr-2022,41
+Kentucky,13-Apr-2022,49
+Kentucky,20-Apr-2022,47
+Kentucky,27-Apr-2022,61
+Kentucky,04-May-2022,65
+Kentucky,11-May-2022,88
+Kentucky,18-May-2022,130
+Kentucky,25-May-2022,145
+Kentucky,01-Jun-2022,33
+Kentucky,08-Jun-2022,23
+Louisiana,16-Jun-2021,14
+Louisiana,23-Jun-2021,18
+Louisiana,30-Jun-2021,19
+Louisiana,07-Jul-2021,22
+Louisiana,14-Jul-2021,67
+Louisiana,21-Jul-2021,113
+Louisiana,28-Jul-2021,147
+Louisiana,04-Aug-2021,195
+Louisiana,11-Aug-2021,172
+Louisiana,18-Aug-2021,114
+Louisiana,02-Feb-2022,100
+Louisiana,09-Feb-2022,52
+Louisiana,16-Feb-2022,23
+Louisiana,23-Feb-2022,15
+Louisiana,02-Mar-2022,10
+Louisiana,09-Mar-2022,10
+Louisiana,16-Mar-2022,12
+Louisiana,23-Mar-2022,8
+Louisiana,30-Mar-2022,9
+Louisiana,06-Apr-2022,9
+Louisiana,13-Apr-2022,13
+Louisiana,20-Apr-2022,14
+Louisiana,04-May-2022,18
+Louisiana,11-May-2022,31
+Louisiana,18-May-2022,65
+Louisiana,25-May-2022,72
+Louisiana,01-Jun-2022,63
+Louisiana,08-Jun-2022,62
+Maine,19-Aug-2020,1
+Maine,30-Sep-2020,1
+Maine,07-Oct-2020,1
+Maine,14-Oct-2020,1
+Maine,21-Oct-2020,1
+Maine,09-Jun-2021,8
+Maine,16-Jun-2021,6
+Maine,23-Jun-2021,5
+Maine,30-Jun-2021,5
+Maine,07-Jul-2021,3
+Maine,14-Jul-2021,7
+Maine,21-Jul-2021,25
+Maine,28-Jul-2021,36
+Maine,04-Aug-2021,38
+Maine,11-Aug-2021,33
+Maine,18-Aug-2021,33
+Maine,01-Sep-2021,37
+Maine,08-Sep-2021,53
+Maine,15-Sep-2021,52
+Maine,22-Sep-2021,79
+Maine,29-Sep-2021,91
+Maine,06-Oct-2021,58
+Maine,13-Oct-2021,46
+Maine,20-Oct-2021,48
+Maine,27-Oct-2021,48
+Maine,03-Nov-2021,76
+Maine,29-Dec-2021,1438
+Maine,05-Jan-2022,1166
+Maine,12-Jan-2022,736
+Maine,19-Jan-2022,483
+Maine,26-Jan-2022,365
+Maine,02-Feb-2022,985
+Maine,09-Feb-2022,556
+Maine,16-Feb-2022,361
+Maine,23-Feb-2022,241
+Maine,02-Mar-2022,273
+Maine,09-Mar-2022,237
+Maine,16-Mar-2022,250
+Maine,23-Mar-2022,264
+Maine,30-Mar-2022,328
+Maine,06-Apr-2022,490
+Maine,13-Apr-2022,590
+Maine,20-Apr-2022,570
+Maine,27-Apr-2022,663
+Maine,04-May-2022,911
+Maine,11-May-2022,1169
+Maine,18-May-2022,889
+Maine,25-May-2022,724
+Maine,01-Jun-2022,615
+Maine,08-Jun-2022,586
+Massachusetts,11-Mar-2020,1
+Massachusetts,18-Mar-2020,7
+Massachusetts,25-Mar-2020,18
+Massachusetts,01-Apr-2020,29
+Massachusetts,08-Apr-2020,46
+Massachusetts,15-Apr-2020,48
+Massachusetts,22-Apr-2020,43
+Massachusetts,29-Apr-2020,23
+Massachusetts,06-May-2020,11
+Massachusetts,13-May-2020,17
+Massachusetts,20-May-2020,16
+Massachusetts,27-May-2020,9
+Massachusetts,03-Jun-2020,6
+Massachusetts,10-Jun-2020,5
+Massachusetts,17-Jun-2020,4
+Massachusetts,24-Jun-2020,2
+Massachusetts,01-Jul-2020,3
+Massachusetts,08-Jul-2020,4
+Massachusetts,15-Jul-2020,4
+Massachusetts,22-Jul-2020,3
+Massachusetts,29-Jul-2020,4
+Massachusetts,05-Aug-2020,6
+Massachusetts,12-Aug-2020,7
+Massachusetts,19-Aug-2020,7
+Massachusetts,26-Aug-2020,6
+Massachusetts,02-Sep-2020,9
+Massachusetts,09-Sep-2020,7
+Massachusetts,16-Sep-2020,6
+Massachusetts,23-Sep-2020,7
+Massachusetts,30-Sep-2020,6
+Massachusetts,07-Oct-2020,10
+Massachusetts,14-Oct-2020,19
+Massachusetts,21-Oct-2020,23
+Massachusetts,28-Oct-2020,25
+Massachusetts,04-Nov-2020,43
+Massachusetts,11-Nov-2020,117
+Massachusetts,18-Nov-2020,129
+Massachusetts,25-Nov-2020,162
+Massachusetts,02-Dec-2020,230
+Massachusetts,09-Dec-2020,252
+Massachusetts,16-Dec-2020,263
+Massachusetts,23-Dec-2020,232
+Massachusetts,30-Dec-2020,346
+Massachusetts,06-Jan-2021,347
+Massachusetts,13-Jan-2021,257
+Massachusetts,20-Jan-2021,216
+Massachusetts,27-Jan-2021,190
+Massachusetts,03-Feb-2021,126
+Massachusetts,10-Feb-2021,97
+Massachusetts,17-Feb-2021,73
+Massachusetts,24-Feb-2021,75
+Massachusetts,03-Mar-2021,80
+Massachusetts,10-Mar-2021,68
+Massachusetts,17-Mar-2021,87
+Massachusetts,24-Mar-2021,90
+Massachusetts,31-Mar-2021,77
+Massachusetts,07-Apr-2021,74
+Massachusetts,14-Apr-2021,65
+Massachusetts,21-Apr-2021,43
+Massachusetts,28-Apr-2021,26
+Massachusetts,05-May-2021,20
+Massachusetts,12-May-2021,11
+Massachusetts,19-May-2021,10
+Massachusetts,26-May-2021,5
+Massachusetts,02-Jun-2021,4
+Massachusetts,09-Jun-2021,16
+Massachusetts,16-Jun-2021,18
+Massachusetts,23-Jun-2021,20
+Massachusetts,30-Jun-2021,24
+Massachusetts,07-Jul-2021,19
+Massachusetts,14-Jul-2021,62
+Massachusetts,21-Jul-2021,130
+Massachusetts,28-Jul-2021,155
+Massachusetts,04-Aug-2021,162
+Massachusetts,11-Aug-2021,202
+Massachusetts,18-Aug-2021,219
+Massachusetts,25-Aug-2021,96
+Massachusetts,01-Sep-2021,166
+Massachusetts,08-Sep-2021,150
+Massachusetts,15-Sep-2021,205
+Massachusetts,22-Sep-2021,291
+Massachusetts,29-Sep-2021,406
+Massachusetts,06-Oct-2021,460
+Massachusetts,13-Oct-2021,330
+Massachusetts,20-Oct-2021,317
+Massachusetts,27-Oct-2021,390
+Massachusetts,03-Nov-2021,452
+Massachusetts,10-Nov-2021,584
+Massachusetts,17-Nov-2021,744
+Massachusetts,24-Nov-2021,938
+Massachusetts,01-Dec-2021,1183
+Massachusetts,08-Dec-2021,1273
+Massachusetts,15-Dec-2021,1468
+Massachusetts,22-Dec-2021,1864
+Massachusetts,29-Dec-2021,2027
+Massachusetts,05-Jan-2022,2021
+Massachusetts,12-Jan-2022,1973
+Massachusetts,19-Jan-2022,1609
+Massachusetts,26-Jan-2022,1211
+Massachusetts,02-Feb-2022,911
+Massachusetts,09-Feb-2022,364
+Massachusetts,16-Feb-2022,168
+Massachusetts,23-Feb-2022,121
+Massachusetts,02-Mar-2022,113
+Massachusetts,09-Mar-2022,126
+Massachusetts,16-Mar-2022,151
+Massachusetts,23-Mar-2022,224
+Massachusetts,30-Mar-2022,287
+Massachusetts,06-Apr-2022,428
+Massachusetts,13-Apr-2022,574
+Massachusetts,20-Apr-2022,555
+Massachusetts,27-Apr-2022,527
+Massachusetts,04-May-2022,762
+Massachusetts,11-May-2022,1029
+Massachusetts,18-May-2022,937
+Massachusetts,25-May-2022,773
+Massachusetts,01-Jun-2022,735
+Massachusetts,08-Jun-2022,685
+Michigan,25-Aug-2021,1
+Michigan,11-May-2022,1
+Michigan,18-May-2022,1
+Michigan,25-May-2022,2
+Michigan,01-Jun-2022,2
+Michigan,08-Jun-2022,5
+Minnesota,22-Apr-2020,258
+Minnesota,29-Apr-2020,270
+Minnesota,06-May-2020,209
+Minnesota,13-May-2020,98
+Minnesota,20-May-2020,44
+Minnesota,27-May-2020,46
+Minnesota,03-Jun-2020,34
+Minnesota,10-Jun-2020,55
+Minnesota,17-Jun-2020,46
+Minnesota,24-Jun-2020,20
+Minnesota,01-Jul-2020,20
+Minnesota,15-Jul-2020,36
+Minnesota,22-Jul-2020,45
+Minnesota,05-Aug-2020,36
+Minnesota,12-Aug-2020,22
+Minnesota,19-Aug-2020,20
+Minnesota,26-Aug-2020,18
+Minnesota,02-Sep-2020,19
+Minnesota,09-Sep-2020,18
+Minnesota,16-Sep-2020,17
+Minnesota,23-Sep-2020,18
+Minnesota,30-Sep-2020,20
+Minnesota,07-Oct-2020,25
+Minnesota,14-Oct-2020,49
+Minnesota,21-Oct-2020,72
+Minnesota,28-Oct-2020,79
+Minnesota,04-Nov-2020,104
+Minnesota,11-Nov-2020,164
+Minnesota,18-Nov-2020,182
+Minnesota,25-Nov-2020,168
+Minnesota,02-Dec-2020,160
+Minnesota,09-Dec-2020,140
+Minnesota,16-Dec-2020,138
+Minnesota,30-Dec-2020,90
+Minnesota,09-Jun-2021,8
+Minnesota,16-Jun-2021,7
+Minnesota,23-Jun-2021,6
+Minnesota,30-Jun-2021,10
+Minnesota,07-Jul-2021,10
+Minnesota,14-Jul-2021,11
+Minnesota,21-Jul-2021,18
+Minnesota,28-Jul-2021,38
+Minnesota,04-Aug-2021,45
+Minnesota,11-Aug-2021,49
+Minnesota,18-Aug-2021,56
+Minnesota,26-Jan-2022,275
+Minnesota,02-Feb-2022,150
+Minnesota,09-Feb-2022,94
+Minnesota,16-Feb-2022,76
+Minnesota,23-Feb-2022,61
+Minnesota,02-Mar-2022,45
+Minnesota,09-Mar-2022,34
+Minnesota,16-Mar-2022,38
+Minnesota,23-Mar-2022,40
+Minnesota,30-Mar-2022,58
+Minnesota,06-Apr-2022,87
+Minnesota,13-Apr-2022,116
+Minnesota,20-Apr-2022,145
+Minnesota,27-Apr-2022,168
+Minnesota,04-May-2022,204
+Minnesota,11-May-2022,213
+Minnesota,18-May-2022,237
+Minnesota,25-May-2022,232
+Minnesota,01-Jun-2022,218
+Minnesota,08-Jun-2022,172
+Mississippi,23-Jun-2021,13
+Mississippi,30-Jun-2021,24
+Mississippi,07-Jul-2021,50
+Mississippi,14-Jul-2021,68
+Mississippi,21-Jul-2021,123
+Mississippi,28-Jul-2021,115
+Mississippi,04-Aug-2021,177
+Mississippi,11-Aug-2021,120
+Mississippi,18-Aug-2021,136
+Mississippi,25-Aug-2021,90
+Mississippi,09-Feb-2022,36
+Mississippi,16-Feb-2022,22
+Mississippi,23-Feb-2022,14
+Mississippi,02-Mar-2022,5
+Mississippi,09-Mar-2022,7
+Mississippi,16-Mar-2022,4
+Mississippi,23-Mar-2022,1
+Mississippi,30-Mar-2022,1
+Mississippi,06-Apr-2022,2
+Mississippi,13-Apr-2022,1
+Mississippi,20-Apr-2022,4
+Mississippi,04-May-2022,15
+Mississippi,11-May-2022,22
+Mississippi,18-May-2022,25
+Mississippi,25-May-2022,37
+Mississippi,01-Jun-2022,27
+Missouri,16-Jun-2021,1
+Missouri,23-Jun-2021,1
+Missouri,30-Jun-2021,1
+Missouri,07-Jul-2021,1
+Missouri,14-Jul-2021,1
+Missouri,21-Jul-2021,3
+Missouri,28-Jul-2021,5
+Missouri,04-Aug-2021,8
+Missouri,11-Aug-2021,9
+Missouri,18-Aug-2021,9
+Missouri,02-Feb-2022,14
+Missouri,09-Feb-2022,9
+Missouri,16-Feb-2022,7
+Missouri,23-Feb-2022,3
+Missouri,02-Mar-2022,3
+Missouri,09-Mar-2022,3
+Missouri,16-Mar-2022,4
+Missouri,23-Mar-2022,2
+Missouri,30-Mar-2022,1
+Missouri,06-Apr-2022,1
+Missouri,13-Apr-2022,1
+Missouri,20-Apr-2022,2
+Missouri,27-Apr-2022,2
+Missouri,04-May-2022,3
+Missouri,11-May-2022,6
+Missouri,18-May-2022,5
+Missouri,25-May-2022,4
+Missouri,01-Jun-2022,6
+Missouri,08-Jun-2022,6
+Montana,01-Jul-2020,1
+Montana,08-Jul-2020,1
+Montana,15-Jul-2020,1
+Montana,26-Aug-2020,1
+Montana,02-Sep-2020,5
+Montana,09-Sep-2020,2
+Montana,23-Sep-2020,1
+Montana,30-Sep-2020,5
+Montana,07-Oct-2020,3
+Montana,14-Oct-2020,3
+Montana,21-Oct-2020,3
+Montana,28-Oct-2020,5
+Montana,04-Nov-2020,30
+Montana,11-Nov-2020,95
+Montana,18-Nov-2020,40
+Montana,25-Nov-2020,41
+Montana,02-Dec-2020,15
+Montana,09-Dec-2020,11
+Montana,16-Dec-2020,7
+Montana,23-Dec-2020,5
+Montana,30-Dec-2020,11
+Montana,06-Jan-2021,6
+Montana,20-Jan-2021,2
+Montana,27-Jan-2021,3
+Montana,03-Feb-2021,4
+Montana,10-Feb-2021,1
+Montana,03-Mar-2021,1
+Montana,10-Mar-2021,1
+Montana,17-Mar-2021,1
+Montana,24-Mar-2021,1
+Montana,31-Mar-2021,2
+Montana,07-Apr-2021,3
+Montana,14-Apr-2021,4
+Montana,21-Apr-2021,5
+Montana,28-Apr-2021,6
+Montana,05-May-2021,4
+Montana,12-May-2021,2
+Montana,19-May-2021,2
+Montana,26-May-2021,1
+Montana,02-Jun-2021,1
+Montana,09-Jun-2021,2
+Montana,07-Jul-2021,1
+Montana,14-Jul-2021,8
+Montana,21-Jul-2021,12
+Montana,28-Jul-2021,6
+Montana,04-Aug-2021,5
+Montana,11-Aug-2021,7
+Montana,18-Aug-2021,5
+Montana,02-Mar-2022,2
+Montana,09-Mar-2022,2
+Montana,16-Mar-2022,3
+Montana,23-Mar-2022,1
+Montana,30-Mar-2022,2
+Montana,06-Apr-2022,5
+Montana,13-Apr-2022,6
+Montana,20-Apr-2022,6
+Montana,27-Apr-2022,6
+Montana,04-May-2022,15
+Montana,11-May-2022,12
+Montana,18-May-2022,14
+Montana,25-May-2022,21
+Montana,01-Jun-2022,24
+Nevada,03-Jun-2020,1
+Nevada,10-Jun-2020,1
+Nevada,24-Jun-2020,1
+Nevada,01-Jul-2020,1
+Nevada,08-Jul-2020,2
+Nevada,15-Jul-2020,2
+Nevada,22-Jul-2020,3
+Nevada,29-Jul-2020,4
+Nevada,05-Aug-2020,5
+Nevada,12-Aug-2020,7
+Nevada,19-Aug-2020,3
+Nevada,26-Aug-2020,2
+Nevada,02-Sep-2020,2
+Nevada,09-Sep-2020,1
+Nevada,16-Sep-2020,1
+Nevada,23-Sep-2020,1
+Nevada,30-Sep-2020,2
+Nevada,07-Oct-2020,1
+Nevada,14-Oct-2020,2
+Nevada,21-Oct-2020,5
+Nevada,28-Oct-2020,7
+Nevada,04-Nov-2020,12
+Nevada,11-Nov-2020,26
+Nevada,18-Nov-2020,26
+Nevada,25-Nov-2020,11
+Nevada,02-Dec-2020,16
+Nevada,09-Dec-2020,15
+Nevada,16-Dec-2020,15
+Nevada,23-Dec-2020,15
+Nevada,30-Dec-2020,8
+Nevada,06-Jan-2021,9
+Nevada,13-Jan-2021,3
+Nevada,20-Jan-2021,2
+Nevada,27-Jan-2021,6
+Nevada,03-Feb-2021,6
+Nevada,10-Feb-2021,5
+Nevada,17-Feb-2021,2
+Nevada,24-Feb-2021,1
+Nevada,03-Mar-2021,1
+Nevada,10-Mar-2021,1
+Nevada,24-Mar-2021,1
+Nevada,31-Mar-2021,1
+Nevada,14-Apr-2021,1
+Nevada,21-Apr-2021,1
+Nevada,28-Apr-2021,2
+Nevada,05-May-2021,1
+Nevada,12-May-2021,2
+Nevada,19-May-2021,5
+Nevada,26-May-2021,6
+Nevada,02-Jun-2021,2
+Nevada,09-Jun-2021,81
+Nevada,16-Jun-2021,104
+Nevada,23-Jun-2021,133
+Nevada,30-Jun-2021,207
+Nevada,07-Jul-2021,243
+Nevada,14-Jul-2021,241
+Nevada,21-Jul-2021,291
+Nevada,28-Jul-2021,512
+Nevada,04-Aug-2021,621
+Nevada,11-Aug-2021,399
+Nevada,18-Aug-2021,363
+Nevada,25-Aug-2021,3
+Nevada,01-Sep-2021,7
+Nevada,08-Sep-2021,12
+Nevada,15-Sep-2021,24
+Nevada,22-Sep-2021,20
+Nevada,29-Sep-2021,17
+Nevada,06-Oct-2021,18
+Nevada,13-Oct-2021,12
+Nevada,20-Oct-2021,13
+Nevada,27-Oct-2021,18
+Nevada,03-Nov-2021,12
+Nevada,10-Nov-2021,8
+Nevada,17-Nov-2021,7
+Nevada,24-Nov-2021,9
+Nevada,01-Dec-2021,6
+Nevada,08-Dec-2021,4
+Nevada,15-Dec-2021,5
+Nevada,22-Dec-2021,4
+Nevada,29-Dec-2021,7
+Nevada,05-Jan-2022,10
+Nevada,12-Jan-2022,27
+Nevada,19-Jan-2022,53
+Nevada,26-Jan-2022,212
+Nevada,02-Feb-2022,566
+Nevada,09-Feb-2022,304
+Nevada,16-Feb-2022,111
+Nevada,23-Feb-2022,101
+Nevada,02-Mar-2022,61
+Nevada,09-Mar-2022,60
+Nevada,16-Mar-2022,57
+Nevada,23-Mar-2022,72
+Nevada,30-Mar-2022,76
+Nevada,06-Apr-2022,121
+Nevada,13-Apr-2022,138
+Nevada,20-Apr-2022,220
+Nevada,27-Apr-2022,280
+Nevada,04-May-2022,316
+Nevada,11-May-2022,378
+Nevada,18-May-2022,533
+Nevada,25-May-2022,606
+Nevada,01-Jun-2022,107
+Nevada,08-Jun-2022,546
+New Hampshire,16-Jun-2021,1
+New Hampshire,23-Jun-2021,4
+New Hampshire,30-Jun-2021,18
+New Hampshire,07-Jul-2021,35
+New Hampshire,14-Jul-2021,16
+New Hampshire,21-Jul-2021,26
+New Hampshire,28-Jul-2021,11
+New Hampshire,04-Aug-2021,16
+New Hampshire,11-Aug-2021,41
+New Hampshire,18-Aug-2021,35
+New Hampshire,09-Feb-2022,160
+New Hampshire,16-Feb-2022,68
+New Hampshire,23-Feb-2022,70
+New Hampshire,02-Mar-2022,25
+New Hampshire,09-Mar-2022,10
+New Hampshire,16-Mar-2022,7
+New Hampshire,23-Mar-2022,13
+New Hampshire,30-Mar-2022,35
+New Hampshire,06-Apr-2022,39
+New Hampshire,13-Apr-2022,118
+New Hampshire,20-Apr-2022,246
+New Hampshire,27-Apr-2022,170
+New Hampshire,04-May-2022,190
+New Hampshire,11-May-2022,121
+New Hampshire,18-May-2022,108
+New Hampshire,25-May-2022,104
+New Hampshire,01-Jun-2022,109
+New Hampshire,08-Jun-2022,102
+New Jersey,25-Mar-2020,242
+New Jersey,01-Apr-2020,219
+New Jersey,08-Apr-2020,242
+New Jersey,15-Apr-2020,242
+New Jersey,22-Apr-2020,242
+New Jersey,29-Apr-2020,234
+New Jersey,06-May-2020,25
+New Jersey,13-May-2020,6
+New Jersey,20-May-2020,6
+New Jersey,27-May-2020,2
+New Jersey,03-Jun-2020,4
+New Jersey,10-Jun-2020,5
+New Jersey,17-Jun-2020,2
+New Jersey,01-Jul-2020,1
+New Jersey,08-Jul-2020,2
+New Jersey,15-Jul-2020,3
+New Jersey,22-Jul-2020,3
+New Jersey,05-Aug-2020,1
+New Jersey,19-Aug-2020,1
+New Jersey,02-Sep-2020,1
+New Jersey,16-Sep-2020,1
+New Jersey,30-Sep-2020,3
+New Jersey,14-Oct-2020,4
+New Jersey,28-Oct-2020,11
+New Jersey,11-Nov-2020,32
+New Jersey,09-Dec-2020,35
+New Jersey,23-Dec-2020,37
+New Jersey,06-Jan-2021,65
+New Jersey,20-Jan-2021,54
+New Jersey,10-Feb-2021,18
+New Jersey,24-Feb-2021,17
+New Jersey,10-Mar-2021,9
+New Jersey,24-Mar-2021,15
+New Jersey,07-Apr-2021,14
+New Jersey,21-Apr-2021,9
+New Jersey,05-May-2021,4
+New Jersey,19-May-2021,2
+New Jersey,09-Jun-2021,20
+New Jersey,16-Jun-2021,27
+New Jersey,23-Jun-2021,32
+New Jersey,30-Jun-2021,22
+New Jersey,07-Jul-2021,16
+New Jersey,14-Jul-2021,25
+New Jersey,21-Jul-2021,55
+New Jersey,28-Jul-2021,44
+New Jersey,04-Aug-2021,48
+New Jersey,11-Aug-2021,50
+New Jersey,18-Aug-2021,51
+New Jersey,08-Sep-2021,8
+New Jersey,22-Sep-2021,9
+New Jersey,06-Oct-2021,10
+New Jersey,20-Oct-2021,6
+New Jersey,10-Nov-2021,16
+New Jersey,24-Nov-2021,26
+New Jersey,08-Dec-2021,55
+New Jersey,22-Dec-2021,141
+New Jersey,05-Jan-2022,228
+New Jersey,19-Jan-2022,91
+New Jersey,26-Jan-2022,29
+New Jersey,02-Feb-2022,55
+New Jersey,09-Feb-2022,16
+New Jersey,16-Feb-2022,19
+New Jersey,23-Feb-2022,16
+New Jersey,02-Mar-2022,16
+New Jersey,09-Mar-2022,25
+New Jersey,16-Mar-2022,27
+New Jersey,23-Mar-2022,40
+New Jersey,30-Mar-2022,51
+New Jersey,06-Apr-2022,95
+New Jersey,13-Apr-2022,100
+New Jersey,20-Apr-2022,49
+New Jersey,27-Apr-2022,77
+New Jersey,04-May-2022,115
+New Jersey,11-May-2022,212
+New Jersey,18-May-2022,301
+New Jersey,25-May-2022,214
+New Jersey,01-Jun-2022,175
+New Jersey,08-Jun-2022,145
+New Mexico,14-Jul-2021,8
+New Mexico,21-Jul-2021,26
+New Mexico,28-Jul-2021,54
+New Mexico,04-Aug-2021,78
+New Mexico,11-Aug-2021,74
+New Mexico,18-Aug-2021,76
+New Mexico,25-Aug-2021,116
+New Mexico,01-Jun-2022,77
+New Mexico,08-Jun-2022,164
+New York,22-Apr-2020,110
+New York,13-May-2020,2
+New York,20-May-2020,1
+New York,07-Oct-2020,1
+New York,21-Oct-2020,3
+New York,04-Nov-2020,3
+New York,18-Nov-2020,10
+New York,02-Dec-2020,20
+New York,09-Dec-2020,20
+New York,16-Dec-2020,21
+New York,23-Dec-2020,21
+New York,30-Dec-2020,35
+New York,06-Jan-2021,70
+New York,13-Jan-2021,92
+New York,20-Jan-2021,57
+New York,03-Feb-2021,55
+New York,10-Feb-2021,27
+New York,17-Feb-2021,23
+New York,24-Feb-2021,24
+New York,03-Mar-2021,21
+New York,10-Mar-2021,24
+New York,17-Mar-2021,34
+New York,24-Mar-2021,35
+New York,31-Mar-2021,13
+New York,07-Apr-2021,6
+New York,21-Apr-2021,3
+New York,05-May-2021,3
+New York,19-May-2021,1
+New York,21-Jul-2021,2
+New York,11-Aug-2021,4
+New York,25-Aug-2021,7
+New York,22-Sep-2021,60
+New York,06-Oct-2021,18
+New York,20-Oct-2021,5
+New York,17-Nov-2021,26
+New York,01-Dec-2021,48
+New York,15-Dec-2021,107
+New York,29-Dec-2021,110
+New York,12-Jan-2022,110
+New York,02-Feb-2022,26
+New York,09-Mar-2022,2
+New York,06-Apr-2022,56
+New York,11-May-2022,42
+New York,08-Jun-2022,15
+North Carolina,09-Jun-2021,5
+North Carolina,16-Jun-2021,10
+North Carolina,23-Jun-2021,9
+North Carolina,30-Jun-2021,8
+North Carolina,07-Jul-2021,9
+North Carolina,14-Jul-2021,12
+North Carolina,21-Jul-2021,27
+North Carolina,28-Jul-2021,60
+North Carolina,04-Aug-2021,38
+North Carolina,11-Aug-2021,42
+North Carolina,18-Aug-2021,51
+North Carolina,26-Jan-2022,94
+North Carolina,02-Feb-2022,47
+North Carolina,09-Feb-2022,21
+North Carolina,16-Feb-2022,15
+North Carolina,23-Feb-2022,8
+North Carolina,02-Mar-2022,5
+North Carolina,09-Mar-2022,3
+North Carolina,16-Mar-2022,2
+North Carolina,23-Mar-2022,2
+North Carolina,30-Mar-2022,3
+North Carolina,06-Apr-2022,6
+North Carolina,13-Apr-2022,10
+North Carolina,20-Apr-2022,13
+North Carolina,27-Apr-2022,13
+North Carolina,04-May-2022,16
+North Carolina,11-May-2022,19
+North Carolina,18-May-2022,18
+North Carolina,25-May-2022,22
+North Carolina,01-Jun-2022,22
+North Carolina,08-Jun-2022,29
+Ohio,07-Jul-2021,1
+Ohio,14-Jul-2021,1
+Ohio,28-Jul-2021,2
+Ohio,04-Aug-2021,6
+Ohio,11-Aug-2021,7
+Ohio,18-Aug-2021,6
+Ohio,02-Feb-2022,6
+Ohio,09-Feb-2022,3
+Ohio,16-Feb-2022,5
+Ohio,23-Feb-2022,6
+Ohio,02-Mar-2022,4
+Ohio,09-Mar-2022,2
+Ohio,16-Mar-2022,4
+Ohio,23-Mar-2022,4
+Ohio,30-Mar-2022,2
+Ohio,06-Apr-2022,2
+Ohio,13-Apr-2022,6
+Ohio,20-Apr-2022,8
+Ohio,27-Apr-2022,13
+Ohio,04-May-2022,17
+Ohio,11-May-2022,20
+Ohio,18-May-2022,31
+Ohio,25-May-2022,35
+Ohio,01-Jun-2022,22
+Ohio,08-Jun-2022,22
+Oklahoma,15-Apr-2020,8
+Oklahoma,22-Apr-2020,3
+Oklahoma,29-Apr-2020,6
+Oklahoma,06-May-2020,2
+Oklahoma,27-May-2020,1
+Oklahoma,09-Feb-2022,63
+Oklahoma,16-Feb-2022,38
+Oklahoma,23-Feb-2022,29
+Oklahoma,02-Mar-2022,16
+Oklahoma,09-Mar-2022,11
+Oklahoma,16-Mar-2022,12
+Oklahoma,23-Mar-2022,15
+Oklahoma,30-Mar-2022,15
+Oklahoma,06-Apr-2022,18
+Oklahoma,13-Apr-2022,17
+Oklahoma,20-Apr-2022,17
+Oklahoma,27-Apr-2022,26
+Oklahoma,04-May-2022,47
+Oklahoma,11-May-2022,52
+Oklahoma,18-May-2022,28
+Oklahoma,25-May-2022,23
+Oklahoma,01-Jun-2022,51
+Oklahoma,08-Jun-2022,113
+Oregon,08-Apr-2020,14
+Oregon,15-Apr-2020,5
+Oregon,22-Apr-2020,9
+Oregon,29-Apr-2020,9
+Oregon,06-May-2020,23
+Oregon,13-May-2020,7
+Oregon,27-May-2020,1
+Oregon,24-Jun-2020,14
+Oregon,22-Jul-2020,21
+Oregon,29-Jul-2020,30
+Oregon,05-Aug-2020,31
+Oregon,12-Aug-2020,23
+Oregon,19-Aug-2020,21
+Oregon,26-Aug-2020,15
+Oregon,02-Sep-2020,24
+Oregon,09-Sep-2020,24
+Oregon,16-Sep-2020,16
+Oregon,23-Sep-2020,12
+Oregon,30-Sep-2020,14
+Oregon,07-Oct-2020,27
+Oregon,14-Oct-2020,50
+Oregon,21-Oct-2020,57
+Oregon,28-Oct-2020,45
+Oregon,04-Nov-2020,49
+Oregon,11-Nov-2020,27
+Oregon,18-Nov-2020,101
+Oregon,25-Nov-2020,121
+Oregon,02-Dec-2020,117
+Oregon,09-Dec-2020,118
+Oregon,16-Dec-2020,123
+Oregon,23-Dec-2020,56
+Oregon,30-Dec-2020,32
+Oregon,06-Jan-2021,25
+Oregon,13-Jan-2021,23
+Oregon,20-Jan-2021,27
+Oregon,09-Jun-2021,18
+Oregon,16-Jun-2021,23
+Oregon,23-Jun-2021,11
+Oregon,30-Jun-2021,9
+Oregon,07-Jul-2021,11
+Oregon,14-Jul-2021,11
+Oregon,21-Jul-2021,19
+Oregon,28-Jul-2021,32
+Oregon,04-Aug-2021,49
+Oregon,11-Aug-2021,92
+Oregon,18-Aug-2021,97
+Oregon,02-Feb-2022,68
+Oregon,09-Feb-2022,39
+Oregon,16-Feb-2022,26
+Oregon,23-Feb-2022,19
+Oregon,02-Mar-2022,14
+Oregon,09-Mar-2022,13
+Oregon,16-Mar-2022,13
+Oregon,23-Mar-2022,13
+Oregon,30-Mar-2022,16
+Oregon,06-Apr-2022,15
+Oregon,13-Apr-2022,28
+Oregon,20-Apr-2022,30
+Oregon,27-Apr-2022,28
+Oregon,04-May-2022,37
+Oregon,11-May-2022,68
+Oregon,18-May-2022,55
+Oregon,25-May-2022,16
+Oregon,01-Jun-2022,19
+Oregon,08-Jun-2022,469
+Pennsylvania,15-Apr-2020,4
+Pennsylvania,22-Apr-2020,24
+Pennsylvania,06-May-2020,55
+Pennsylvania,13-May-2020,25
+Pennsylvania,20-May-2020,12
+Pennsylvania,27-May-2020,12
+Pennsylvania,03-Jun-2020,2
+Pennsylvania,10-Jun-2020,10
+Pennsylvania,17-Jun-2020,9
+Pennsylvania,24-Jun-2020,6
+Pennsylvania,01-Jul-2020,5
+Pennsylvania,08-Jul-2020,3
+Pennsylvania,15-Jul-2020,4
+Pennsylvania,22-Jul-2020,7
+Pennsylvania,29-Jul-2020,1
+Pennsylvania,05-Aug-2020,6
+Pennsylvania,12-Aug-2020,3
+Pennsylvania,19-Aug-2020,3
+Pennsylvania,26-Aug-2020,3
+Pennsylvania,02-Sep-2020,6
+Pennsylvania,09-Sep-2020,4
+Pennsylvania,16-Sep-2020,6
+Pennsylvania,23-Sep-2020,5
+Pennsylvania,30-Sep-2020,4
+Pennsylvania,07-Oct-2020,5
+Pennsylvania,14-Oct-2020,6
+Pennsylvania,21-Oct-2020,10
+Pennsylvania,28-Oct-2020,14
+Pennsylvania,04-Nov-2020,42
+Pennsylvania,11-Nov-2020,45
+Pennsylvania,18-Nov-2020,62
+Pennsylvania,25-Nov-2020,51
+Pennsylvania,02-Dec-2020,119
+Pennsylvania,09-Dec-2020,107
+Pennsylvania,16-Dec-2020,103
+Pennsylvania,23-Dec-2020,111
+Pennsylvania,30-Dec-2020,121
+Pennsylvania,06-Jan-2021,50
+Pennsylvania,13-Jan-2021,48
+Pennsylvania,20-Jan-2021,28
+Pennsylvania,27-Jan-2021,52
+Pennsylvania,03-Feb-2021,18
+Pennsylvania,10-Feb-2021,23
+Pennsylvania,17-Feb-2021,8
+Pennsylvania,24-Feb-2021,19
+Pennsylvania,03-Mar-2021,8
+Pennsylvania,10-Mar-2021,9
+Pennsylvania,17-Mar-2021,5
+Pennsylvania,24-Mar-2021,13
+Pennsylvania,31-Mar-2021,11
+Pennsylvania,07-Apr-2021,17
+Pennsylvania,14-Apr-2021,13
+Pennsylvania,21-Apr-2021,14
+Pennsylvania,28-Apr-2021,9
+Pennsylvania,05-May-2021,9
+Pennsylvania,12-May-2021,11
+Pennsylvania,19-May-2021,6
+Pennsylvania,26-May-2021,5
+Pennsylvania,02-Jun-2021,2
+Pennsylvania,09-Jun-2021,5
+Pennsylvania,16-Jun-2021,2
+Pennsylvania,23-Jun-2021,3
+Pennsylvania,30-Jun-2021,4
+Pennsylvania,14-Jul-2021,2
+Pennsylvania,21-Jul-2021,21
+Pennsylvania,28-Jul-2021,79
+Pennsylvania,04-Aug-2021,38
+Pennsylvania,11-Aug-2021,46
+Pennsylvania,18-Aug-2021,51
+Pennsylvania,25-Aug-2021,63
+Pennsylvania,01-Sep-2021,56
+Pennsylvania,08-Sep-2021,33
+Pennsylvania,15-Sep-2021,37
+Pennsylvania,22-Sep-2021,30
+Pennsylvania,29-Sep-2021,48
+Pennsylvania,06-Oct-2021,67
+Pennsylvania,13-Oct-2021,54
+Pennsylvania,20-Oct-2021,69
+Pennsylvania,27-Oct-2021,50
+Pennsylvania,03-Nov-2021,72
+Pennsylvania,10-Nov-2021,83
+Pennsylvania,17-Nov-2021,93
+Pennsylvania,24-Nov-2021,91
+Pennsylvania,01-Dec-2021,156
+Pennsylvania,08-Dec-2021,139
+Pennsylvania,15-Dec-2021,145
+Pennsylvania,22-Dec-2021,202
+Pennsylvania,29-Dec-2021,454
+Pennsylvania,05-Jan-2022,428
+Pennsylvania,12-Jan-2022,255
+Pennsylvania,19-Jan-2022,214
+Pennsylvania,26-Jan-2022,171
+Pennsylvania,02-Feb-2022,153
+Pennsylvania,09-Feb-2022,105
+Pennsylvania,16-Feb-2022,58
+Pennsylvania,23-Feb-2022,37
+Pennsylvania,02-Mar-2022,35
+Pennsylvania,09-Mar-2022,27
+Pennsylvania,16-Mar-2022,24
+Pennsylvania,23-Mar-2022,24
+Pennsylvania,30-Mar-2022,40
+Pennsylvania,06-Apr-2022,61
+Pennsylvania,13-Apr-2022,66
+Pennsylvania,20-Apr-2022,93
+Pennsylvania,27-Apr-2022,97
+Pennsylvania,04-May-2022,138
+Pennsylvania,11-May-2022,204
+Pennsylvania,18-May-2022,248
+Pennsylvania,25-May-2022,226
+Pennsylvania,01-Jun-2022,183
+Pennsylvania,08-Jun-2022,123
+Rhode Island,22-Jul-2020,1
+Rhode Island,29-Jul-2020,1
+Rhode Island,05-Aug-2020,1
+Rhode Island,12-Aug-2020,1
+Rhode Island,28-Oct-2020,7
+Rhode Island,11-Nov-2020,35
+Rhode Island,09-Jun-2021,46
+Rhode Island,16-Jun-2021,38
+Rhode Island,23-Jun-2021,40
+Rhode Island,30-Jun-2021,46
+Rhode Island,07-Jul-2021,44
+Rhode Island,14-Jul-2021,64
+Rhode Island,21-Jul-2021,101
+Rhode Island,28-Jul-2021,185
+Rhode Island,04-Aug-2021,316
+Rhode Island,11-Aug-2021,367
+Rhode Island,18-Aug-2021,270
+Rhode Island,26-Jan-2022,935
+Rhode Island,02-Feb-2022,671
+Rhode Island,09-Feb-2022,263
+Rhode Island,16-Feb-2022,165
+Rhode Island,23-Feb-2022,137
+Rhode Island,02-Mar-2022,106
+Rhode Island,09-Mar-2022,181
+Rhode Island,16-Mar-2022,331
+Rhode Island,23-Mar-2022,251
+Rhode Island,30-Mar-2022,323
+Rhode Island,06-Apr-2022,280
+Rhode Island,13-Apr-2022,354
+Rhode Island,20-Apr-2022,457
+Rhode Island,27-Apr-2022,647
+Rhode Island,04-May-2022,1080
+Rhode Island,11-May-2022,1129
+Rhode Island,18-May-2022,845
+Rhode Island,25-May-2022,644
+Rhode Island,01-Jun-2022,565
+Rhode Island,08-Jun-2022,538
+South Carolina,21-Jul-2021,9
+South Carolina,28-Jul-2021,29
+South Carolina,04-Aug-2021,48
+South Carolina,11-Aug-2021,76
+South Carolina,18-Aug-2021,90
+South Carolina,01-Sep-2021,254
+South Carolina,08-Sep-2021,251
+South Carolina,15-Sep-2021,246
+South Carolina,22-Sep-2021,156
+South Carolina,29-Sep-2021,121
+South Carolina,06-Oct-2021,110
+South Carolina,13-Oct-2021,69
+South Carolina,20-Oct-2021,70
+South Carolina,27-Oct-2021,69
+South Carolina,03-Nov-2021,61
+South Carolina,10-Nov-2021,62
+South Carolina,17-Nov-2021,48
+South Carolina,24-Nov-2021,34
+South Carolina,01-Dec-2021,49
+South Carolina,08-Dec-2021,57
+South Carolina,15-Dec-2021,81
+South Carolina,22-Dec-2021,210
+South Carolina,29-Dec-2021,417
+South Carolina,05-Jan-2022,417
+South Carolina,12-Jan-2022,417
+South Carolina,19-Jan-2022,417
+South Carolina,26-Jan-2022,205
+South Carolina,02-Feb-2022,198
+South Carolina,09-Feb-2022,107
+South Carolina,16-Feb-2022,48
+South Carolina,23-Feb-2022,31
+South Carolina,02-Mar-2022,19
+South Carolina,09-Mar-2022,12
+South Carolina,16-Mar-2022,7
+South Carolina,23-Mar-2022,9
+South Carolina,30-Mar-2022,15
+South Carolina,06-Apr-2022,24
+South Carolina,13-Apr-2022,31
+South Carolina,20-Apr-2022,40
+South Carolina,27-Apr-2022,49
+South Carolina,04-May-2022,58
+South Carolina,11-May-2022,58
+South Carolina,18-May-2022,46
+South Carolina,25-May-2022,40
+South Carolina,01-Jun-2022,77
+South Carolina,08-Jun-2022,64
+Tennessee,06-May-2020,3
+Tennessee,20-May-2020,14
+Tennessee,27-May-2020,31
+Tennessee,24-Jun-2020,6
+Tennessee,08-Jul-2020,10
+Tennessee,22-Jul-2020,8
+Tennessee,05-Aug-2020,86
+Tennessee,12-Aug-2020,25
+Tennessee,19-Aug-2020,31
+Tennessee,26-Aug-2020,16
+Tennessee,02-Sep-2020,22
+Tennessee,09-Sep-2020,13
+Tennessee,16-Sep-2020,13
+Tennessee,23-Sep-2020,11
+Tennessee,30-Sep-2020,12
+Tennessee,07-Oct-2020,14
+Tennessee,14-Oct-2020,25
+Tennessee,21-Oct-2020,23
+Tennessee,28-Oct-2020,30
+Tennessee,04-Nov-2020,20
+Tennessee,11-Nov-2020,75
+Tennessee,18-Nov-2020,95
+Tennessee,25-Nov-2020,32
+Tennessee,02-Dec-2020,119
+Tennessee,09-Dec-2020,161
+Tennessee,16-Dec-2020,103
+Tennessee,23-Dec-2020,68
+Tennessee,06-Jan-2021,166
+Tennessee,13-Jan-2021,54
+Tennessee,20-Jan-2021,86
+Tennessee,27-Jan-2021,35
+Tennessee,03-Feb-2021,34
+Tennessee,10-Feb-2021,20
+Tennessee,17-Feb-2021,20
+Tennessee,03-Mar-2021,5
+Tennessee,17-Mar-2021,6
+Tennessee,31-Mar-2021,8
+Tennessee,14-Apr-2021,6
+Tennessee,28-Apr-2021,12
+Tennessee,05-May-2021,10
+Tennessee,12-May-2021,7
+Tennessee,19-May-2021,6
+Tennessee,26-May-2021,4
+Tennessee,02-Jun-2021,7
+Tennessee,09-Jun-2021,5
+Tennessee,16-Jun-2021,5
+Tennessee,23-Jun-2021,10
+Tennessee,30-Jun-2021,16
+Tennessee,07-Jul-2021,23
+Tennessee,14-Jul-2021,44
+Tennessee,21-Jul-2021,73
+Tennessee,28-Jul-2021,108
+Tennessee,04-Aug-2021,118
+Tennessee,11-Aug-2021,195
+Tennessee,18-Aug-2021,254
+Tennessee,25-Aug-2021,130
+Tennessee,01-Sep-2021,232
+Tennessee,08-Sep-2021,252
+Tennessee,15-Sep-2021,100
+Tennessee,22-Sep-2021,34
+Tennessee,29-Sep-2021,88
+Tennessee,06-Oct-2021,78
+Tennessee,13-Oct-2021,47
+Tennessee,20-Oct-2021,13
+Tennessee,27-Oct-2021,27
+Tennessee,03-Nov-2021,44
+Tennessee,10-Nov-2021,44
+Tennessee,17-Nov-2021,26
+Tennessee,24-Nov-2021,50
+Tennessee,01-Dec-2021,110
+Tennessee,08-Dec-2021,128
+Tennessee,15-Dec-2021,119
+Tennessee,22-Dec-2021,210
+Tennessee,29-Dec-2021,253
+Tennessee,05-Jan-2022,247
+Tennessee,12-Jan-2022,314
+Tennessee,19-Jan-2022,314
+Tennessee,26-Jan-2022,314
+Tennessee,02-Feb-2022,314
+Tennessee,09-Feb-2022,143
+Tennessee,16-Feb-2022,39
+Tennessee,23-Feb-2022,14
+Tennessee,02-Mar-2022,8
+Tennessee,09-Mar-2022,6
+Tennessee,16-Mar-2022,4
+Tennessee,23-Mar-2022,5
+Tennessee,30-Mar-2022,7
+Tennessee,06-Apr-2022,13
+Tennessee,13-Apr-2022,11
+Tennessee,20-Apr-2022,13
+Tennessee,27-Apr-2022,18
+Tennessee,04-May-2022,13
+Tennessee,11-May-2022,19
+Tennessee,18-May-2022,35
+Tennessee,25-May-2022,40
+Tennessee,01-Jun-2022,56
+Tennessee,08-Jun-2022,74
+Texas,23-Jun-2021,3
+Texas,30-Jun-2021,2
+Texas,07-Jul-2021,3
+Texas,14-Jul-2021,5
+Texas,21-Jul-2021,12
+Texas,28-Jul-2021,24
+Texas,04-Aug-2021,25
+Texas,11-Aug-2021,35
+Texas,18-Aug-2021,46
+Texas,26-Jan-2022,1
+Texas,02-Feb-2022,11
+Texas,09-Feb-2022,6
+Texas,16-Feb-2022,4
+Texas,23-Feb-2022,5
+Texas,02-Mar-2022,3
+Texas,09-Mar-2022,2
+Texas,16-Mar-2022,2
+Texas,23-Mar-2022,3
+Texas,30-Mar-2022,4
+Texas,06-Apr-2022,5
+Texas,13-Apr-2022,6
+Texas,20-Apr-2022,5
+Texas,27-Apr-2022,7
+Texas,04-May-2022,7
+Texas,11-May-2022,8
+Texas,18-May-2022,14
+Texas,25-May-2022,15
+Texas,01-Jun-2022,19
+Texas,08-Jun-2022,43
+Utah,23-Jun-2021,67
+Utah,30-Jun-2021,51
+Utah,07-Jul-2021,49
+Utah,14-Jul-2021,53
+Utah,21-Jul-2021,84
+Utah,28-Jul-2021,121
+Utah,04-Aug-2021,116
+Utah,11-Aug-2021,110
+Utah,18-Aug-2021,128
+Utah,26-Jan-2022,288
+Utah,02-Feb-2022,319
+Utah,09-Feb-2022,160
+Utah,16-Feb-2022,45
+Utah,23-Feb-2022,55
+Utah,02-Mar-2022,31
+Utah,09-Mar-2022,23
+Utah,16-Mar-2022,23
+Utah,23-Mar-2022,10
+Utah,30-Mar-2022,46
+Utah,06-Apr-2022,54
+Utah,13-Apr-2022,65
+Utah,20-Apr-2022,88
+Utah,27-Apr-2022,34
+Utah,04-May-2022,140
+Utah,11-May-2022,178
+Utah,18-May-2022,297
+Utah,25-May-2022,156
+Utah,01-Jun-2022,409
+Utah,08-Jun-2022,130
+Vermont,16-Sep-2020,1
+Vermont,16-Jun-2021,6
+Vermont,23-Jun-2021,8
+Vermont,30-Jun-2021,10
+Vermont,07-Jul-2021,13
+Vermont,14-Jul-2021,10
+Vermont,21-Jul-2021,9
+Vermont,28-Jul-2021,23
+Vermont,04-Aug-2021,22
+Vermont,11-Aug-2021,34
+Vermont,18-Aug-2021,59
+Vermont,16-Feb-2022,136
+Vermont,23-Feb-2022,101
+Vermont,02-Mar-2022,50
+Vermont,09-Mar-2022,34
+Vermont,16-Mar-2022,77
+Vermont,23-Mar-2022,73
+Vermont,30-Mar-2022,133
+Vermont,06-Apr-2022,377
+Vermont,13-Apr-2022,250
+Vermont,20-Apr-2022,178
+Vermont,27-Apr-2022,170
+Vermont,04-May-2022,336
+Vermont,11-May-2022,460
+Vermont,18-May-2022,508
+Vermont,25-May-2022,234
+Vermont,01-Jun-2022,260
+Vermont,08-Jun-2022,209
+Virginia,22-Apr-2020,10
+Virginia,29-Apr-2020,13
+Virginia,06-May-2020,14
+Virginia,13-May-2020,12
+Virginia,20-May-2020,5
+Virginia,10-Jun-2020,3
+Virginia,12-Aug-2020,4
+Virginia,19-Aug-2020,3
+Virginia,26-Aug-2020,4
+Virginia,02-Sep-2020,2
+Virginia,09-Sep-2020,2
+Virginia,16-Sep-2020,2
+Virginia,23-Sep-2020,1
+Virginia,30-Sep-2020,1
+Virginia,07-Oct-2020,2
+Virginia,14-Oct-2020,3
+Virginia,21-Oct-2020,3
+Virginia,28-Oct-2020,3
+Virginia,04-Nov-2020,3
+Virginia,11-Nov-2020,6
+Virginia,18-Nov-2020,8
+Virginia,25-Nov-2020,9
+Virginia,02-Dec-2020,10
+Virginia,09-Dec-2020,10
+Virginia,16-Dec-2020,13
+Virginia,23-Dec-2020,13
+Virginia,30-Dec-2020,17
+Virginia,06-Jan-2021,24
+Virginia,13-Jan-2021,30
+Virginia,20-Jan-2021,19
+Virginia,27-Jan-2021,14
+Virginia,03-Feb-2021,12
+Virginia,10-Feb-2021,7
+Virginia,17-Feb-2021,4
+Virginia,24-Feb-2021,4
+Virginia,03-Mar-2021,4
+Virginia,10-Mar-2021,4
+Virginia,17-Mar-2021,5
+Virginia,24-Mar-2021,5
+Virginia,31-Mar-2021,4
+Virginia,07-Apr-2021,5
+Virginia,14-Apr-2021,7
+Virginia,21-Apr-2021,6
+Virginia,28-Apr-2021,3
+Virginia,05-May-2021,2
+Virginia,12-May-2021,1
+Virginia,19-May-2021,1
+Virginia,26-May-2021,1
+Virginia,02-Jun-2021,1
+Virginia,09-Jun-2021,2
+Virginia,16-Jun-2021,5
+Virginia,23-Jun-2021,2
+Virginia,30-Jun-2021,2
+Virginia,07-Jul-2021,3
+Virginia,14-Jul-2021,4
+Virginia,21-Jul-2021,6
+Virginia,28-Jul-2021,12
+Virginia,04-Aug-2021,26
+Virginia,11-Aug-2021,34
+Virginia,18-Aug-2021,10
+Virginia,25-Aug-2021,3
+Virginia,01-Sep-2021,4
+Virginia,08-Sep-2021,4
+Virginia,15-Sep-2021,4
+Virginia,22-Sep-2021,4
+Virginia,29-Sep-2021,4
+Virginia,06-Oct-2021,2
+Virginia,13-Oct-2021,2
+Virginia,20-Oct-2021,2
+Virginia,27-Oct-2021,1
+Virginia,03-Nov-2021,1
+Virginia,10-Nov-2021,2
+Virginia,17-Nov-2021,2
+Virginia,24-Nov-2021,2
+Virginia,01-Dec-2021,3
+Virginia,08-Dec-2021,5
+Virginia,15-Dec-2021,6
+Virginia,22-Dec-2021,12
+Virginia,29-Dec-2021,21
+Virginia,05-Jan-2022,15
+Virginia,12-Jan-2022,12
+Virginia,19-Jan-2022,10
+Virginia,26-Jan-2022,11
+Virginia,02-Feb-2022,62
+Virginia,09-Feb-2022,41
+Virginia,16-Feb-2022,25
+Virginia,23-Feb-2022,15
+Virginia,02-Mar-2022,10
+Virginia,09-Mar-2022,8
+Virginia,16-Mar-2022,15
+Virginia,23-Mar-2022,16
+Virginia,30-Mar-2022,14
+Virginia,06-Apr-2022,25
+Virginia,13-Apr-2022,35
+Virginia,20-Apr-2022,49
+Virginia,27-Apr-2022,35
+Virginia,04-May-2022,42
+Virginia,11-May-2022,59
+Virginia,18-May-2022,91
+Virginia,25-May-2022,131
+Virginia,01-Jun-2022,174
+Virginia,08-Jun-2022,102
+Washington,06-May-2020,17
+Washington,03-Jun-2020,1
+Washington,10-Jun-2020,1
+Washington,17-Jun-2020,1
+Washington,24-Jun-2020,1
+Washington,01-Jul-2020,1
+Washington,08-Jul-2020,1
+Washington,29-Jul-2020,3
+Washington,19-Aug-2020,1
+Washington,02-Dec-2020,6
+Washington,09-Dec-2020,8
+Washington,16-Dec-2020,14
+Washington,23-Dec-2020,10
+Washington,30-Dec-2020,6
+Washington,06-Jan-2021,6
+Washington,13-Jan-2021,5
+Washington,20-Jan-2021,5
+Washington,27-Jan-2021,3
+Washington,03-Feb-2021,3
+Washington,16-Jun-2021,3
+Washington,23-Jun-2021,3
+Washington,30-Jun-2021,4
+Washington,07-Jul-2021,4
+Washington,14-Jul-2021,6
+Washington,21-Jul-2021,10
+Washington,28-Jul-2021,19
+Washington,04-Aug-2021,23
+Washington,11-Aug-2021,38
+Washington,18-Aug-2021,23
+Washington,26-Jan-2022,23
+Washington,02-Feb-2022,21
+Washington,09-Feb-2022,10
+Washington,16-Feb-2022,9
+Washington,23-Feb-2022,5
+Washington,02-Mar-2022,5
+Washington,09-Mar-2022,3
+Washington,16-Mar-2022,2
+Washington,23-Mar-2022,2
+Washington,30-Mar-2022,2
+Washington,06-Apr-2022,5
+Washington,13-Apr-2022,8
+Washington,20-Apr-2022,12
+Washington,27-Apr-2022,12
+Washington,04-May-2022,48
+Washington,11-May-2022,63
+Washington,18-May-2022,72
+Washington,25-May-2022,72
+Washington,01-Jun-2022,85
+Washington,08-Jun-2022,77
+West Virginia,09-Jun-2021,1
+West Virginia,16-Jun-2021,1
+West Virginia,28-Jul-2021,1
+West Virginia,04-Aug-2021,1
+West Virginia,11-Aug-2021,1
+West Virginia,18-Aug-2021,1
+West Virginia,26-Jan-2022,9
+West Virginia,02-Feb-2022,8
+West Virginia,09-Feb-2022,7
+West Virginia,16-Feb-2022,5
+West Virginia,23-Feb-2022,9
+West Virginia,02-Mar-2022,10
+West Virginia,09-Mar-2022,4
+West Virginia,16-Mar-2022,3
+West Virginia,23-Mar-2022,4
+West Virginia,30-Mar-2022,4
+West Virginia,06-Apr-2022,2
+West Virginia,13-Apr-2022,4
+West Virginia,20-Apr-2022,4
+West Virginia,27-Apr-2022,5
+West Virginia,04-May-2022,9
+West Virginia,11-May-2022,13
+West Virginia,18-May-2022,13
+West Virginia,25-May-2022,8
+West Virginia,01-Jun-2022,10
+West Virginia,08-Jun-2022,14
+Wisconsin,16-Jun-2021,8
+Wisconsin,23-Jun-2021,7
+Wisconsin,30-Jun-2021,5
+Wisconsin,07-Jul-2021,3
+Wisconsin,14-Jul-2021,3
+Wisconsin,21-Jul-2021,7
+Wisconsin,28-Jul-2021,13
+Wisconsin,04-Aug-2021,17
+Wisconsin,11-Aug-2021,21
+Wisconsin,18-Aug-2021,29
+Wisconsin,25-Aug-2021,14
+Wisconsin,01-Sep-2021,8
+Wisconsin,08-Sep-2021,15
+Wisconsin,15-Sep-2021,12
+Wisconsin,22-Sep-2021,16
+Wisconsin,29-Sep-2021,27
+Wisconsin,06-Oct-2021,23
+Wisconsin,20-Oct-2021,22
+Wisconsin,27-Oct-2021,31
+Wisconsin,03-Nov-2021,36
+Wisconsin,10-Nov-2021,47
+Wisconsin,17-Nov-2021,33
+Wisconsin,16-Feb-2022,6
+Wisconsin,23-Feb-2022,4
+Wisconsin,02-Mar-2022,5
+Wisconsin,09-Mar-2022,2
+Wisconsin,16-Mar-2022,1
+Wisconsin,23-Mar-2022,1
+Wisconsin,30-Mar-2022,2
+Wisconsin,06-Apr-2022,5
+Wisconsin,13-Apr-2022,7
+Wisconsin,20-Apr-2022,10
+Wisconsin,27-Apr-2022,9
+Wisconsin,11-May-2022,17
+Wisconsin,18-May-2022,15
+Wisconsin,25-May-2022,12
+Wisconsin,01-Jun-2022,12
